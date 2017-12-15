@@ -54,7 +54,7 @@
                         <Text layoutX="14.0" layoutY="53.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dateiname:" />
                         <Text layoutX="14.0" layoutY="105.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Speicherort:" />
                         <TextField layoutX="14.0" layoutY="109.0" prefHeight="15.0" prefWidth="141.0" fx:id="xlsSpeicherOrtFeld" />
-                        <Button layoutX="163.0" layoutY="109.0" mnemonicParsing="false" onAction="#xlsSpeicherOrtButton" text="Durchsuchen..." />
+                        <Button layoutX="163.0" layoutY="109.0" mnemonicParsing="false" text="Durchsuchen..." />
                         <CheckBox layoutX="14.0" layoutY="143.0" mnemonicParsing="false" text="read only" />
                         <TextField fx:id="zk1" layoutX="14.0" layoutY="185.0" prefHeight="20.0" prefWidth="106.0" text="1" />
                         <TextField fx:id="zk2" layoutX="150.0" layoutY="185.0" prefHeight="20.0" prefWidth="106.0" text="2" />
